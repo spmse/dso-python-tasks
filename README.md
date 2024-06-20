@@ -2,6 +2,8 @@
 
 This repository contains the code for all python tasks of the DevSecOps course.
 
+> Code in this repository is entirely written for educational purposes.
+
 ## Contents
 
 - Module 3 - Python Fundamentals

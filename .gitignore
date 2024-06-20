@@ -1,1 +1,10 @@
+# macOS Filesystem optimization
 .DS_Store
+
+# python
+.pyc
+.venv
+venv
+
+# environment variables
+*.env*
